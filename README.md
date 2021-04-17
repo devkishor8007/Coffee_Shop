@@ -1,16 +1,14 @@
 # coffee_shop
 
-A new Flutter project.
+A new Flutter Coffee_Shop application. Designed by Ajay Talwar, Code with Flutter by Kishor Kc.
 
-## Getting Started
+## Kishor Kc
 
-This project is a starting point for a Flutter application.
+Design credit by Ajay Talwar [see the profile](https://dribbble.com/ajaytalwar)
 
-A few resources to get you started if this is your first Flutter project:
+Coffee_Shop Final UI/UX
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![coffee_shop1](https://user-images.githubusercontent.com/73419211/115102929-ccbb2300-9f6d-11eb-8563-a7a420630ba1.jpg)
+![coffee_shop2](https://user-images.githubusercontent.com/73419211/115102997-376c5e80-9f6e-11eb-86fd-2639cfe3b36c.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
