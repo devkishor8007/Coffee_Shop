@@ -1,4 +1,4 @@
-# coffee_shop
+# coffee_shop_flutter
 
 A new Flutter Coffee_Shop application. Designed by Ajay Talwar, Code with Flutter by Kishor Kc.
 
